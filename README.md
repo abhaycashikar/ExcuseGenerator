@@ -4,7 +4,7 @@ Have you ever whiffed a game with your friends super hard but didn't want to adm
 
 ## Installation
 
-Grab the latest release here, or look through all the releases here. Simply download the release ZIP, extract it to the location of your choosing, and fire it up!
+Grab the latest release [here](https://github.com/abhaycashikar/GamingExcuseGenerator/releases/latest), or look through all the releases [here](https://github.com/abhaycashikar/GamingExcuseGenerator/releases). Simply download the release ZIP, extract it to the location of your choosing, and fire up the EXE!
 
 ## Custom Excuses
 
